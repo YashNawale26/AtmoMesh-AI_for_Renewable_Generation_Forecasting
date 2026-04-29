@@ -1,0 +1,28 @@
+# Core
+python-dotenv
+numpy
+pandas
+scipy
+
+# Modeling
+scikit-learn
+xgboost
+lightgbm
+
+# Explainability
+shap
+
+# Visualization / notebooks
+matplotlib
+seaborn
+plotly
+jupyter
+ipykernel
+
+# API / demo
+fastapi
+uvicorn[standard]
+pydantic
+
+# Simple web UI (optional for Phase II demo)
+streamlit
