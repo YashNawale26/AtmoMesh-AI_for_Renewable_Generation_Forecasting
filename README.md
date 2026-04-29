@@ -317,3 +317,18 @@ renewable-forecasting-layer/
     ├── architecture_diagram.png  # Exported from pptx or draw.io later
     └── demo_notes.md
 ```
+
+
+## 6. Team
+
+**AtmoMesh – AI for Renewable Generation Forecasting** is developed by a team of 5 IT professionals:
+
+- **Yash Nawale**  
+  
+- **Manasi Kamate**
+
+- **Anagha Shinde** 
+  
+- **Mitali Wadkar**  
+ 
+- **Shantanu Kantak**  
